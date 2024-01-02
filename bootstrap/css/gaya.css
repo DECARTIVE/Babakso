@@ -1,0 +1,28 @@
+/* style.css */
+
+body {
+    padding-top: 60px;
+    font-family: 'Arial', sans-serif;
+    background-color: #f8f9fa; /* Warna latar belakang */
+    color: #333; /* Warna teks */
+}
+
+.container {
+    margin-top: 20px;
+}
+
+.post {
+    margin-bottom: 30px;
+    padding: 20px;
+    background-color: #fff; /* Warna latar belakang postingan */
+    border: 1px solid #ddd;
+    border-radius: 10px; /* Sudut membulatkan postingan */
+}
+
+h2 {
+    color: #007bff; /* Warna judul postingan */
+}
+
+p {
+    line-height: 1.6; /* Jarak antar baris */
+}
